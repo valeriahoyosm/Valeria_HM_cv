@@ -25,11 +25,11 @@ Research Assistant. Area: education, gender, and public policy (PhD. María Pía
 {% include_relative _includes/publications.md %}
 
 ##  Causal Inference & Machine Learning Course
-- [Workgroup 1](https://sites.google.com/view/maria-pia-basurto/home)
-- [Workgroup 2](https://sites.google.com/view/maria-pia-basurto/home)
-- [Workgroup 3](https://sites.google.com/view/maria-pia-basurto/home)
-- [Workgroup 4](https://sites.google.com/view/maria-pia-basurto/home)
-- [Workgroup 5](https://sites.google.com/view/maria-pia-basurto/home)
+- [Workgroup 1](https://github.com/valeriahoyosm/Causal_Inference_ML/tree/main/Workgroup1)
+- [Workgroup 2](https://github.com/valeriahoyosm/Causal_Inference_ML/tree/main/Workgroup2)
+- [Workgroup 3](https://github.com/valeriahoyosm/Causal_Inference_ML/tree/main/Workgroup3)
+- [Workgroup 4](https://github.com/valeriahoyosm/Causal_Inference_ML/tree/main/Workgroup4)
+- [Workgroup 5](https://github.com/valeriahoyosm/Causal_Inference_ML/tree/main/Workgroup5)
 
 
 ## Skills
