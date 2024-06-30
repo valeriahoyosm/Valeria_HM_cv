@@ -22,7 +22,7 @@ Research Assistant. Area: education, gender, and public policy (PhD. María Pía
 - **[Feb. 2020]**
 
 
-## News
+## Skill
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
 - **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
