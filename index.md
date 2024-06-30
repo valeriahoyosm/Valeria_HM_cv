@@ -8,7 +8,7 @@ Welcome to my website!
 
 I am a ninth-semester economics student at Universidad del Pacífico and I also work as a research assistant for Professor [María Pía Basurto](https://sites.google.com/view/maria-pia-basurto/home), researching topics related to development economics, education, gender, and public policy. My research interests focus on impact evaluation and public policy. Through my work, I hope to contribute to improving people's well-being. 
 
-You can consult my CV for more details.
+You can consult my [CV](https://valeriahoyosm.github.io/Valeria_HM_cv/assets/files/curriculum_vitae.pdf) for more details.
 
 ## Education 
 
@@ -23,6 +23,7 @@ Research Assistant. Area: education, gender, and public policy (PhD. María Pía
 
 
 {% include_relative _includes/publications.md %}
+
 
 ##  Causal Inference & Machine Learning Course
 - [Workgroup 1](https://github.com/valeriahoyosm/Causal_Inference_ML/tree/main/Workgroup1)
