@@ -4,7 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Welcome to my website! I am a ninth-semester economics student at Universidad del Pacífico and I also work as a research assistant for Professor María Pía Basurto, researching topics related to development economics, education, gender, and public policy. My research interests focus on impact evaluation and public policy. Through my work, I hope to contribute to improving people's well-being. 
+
+You can consult my CV for more details.
 
 ## Research Interests
 
