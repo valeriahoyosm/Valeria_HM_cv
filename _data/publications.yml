@@ -1,17 +1,7 @@
 main:
 
-  - title: "Indicador de Logro educativo: realidad y posibilidad"
+  - title: "Indicator of Educational Achievement: Reality and Possibility"
     authors: Valeria Hoyos, Erzo Garay
     pdf: https://interactivemap20241.000webhostapp.com
     code: https://github.com/MrGiovanni/ContinualLearning
     image: ./assets/img/teaser_example.png
-
-  - title: "Mnemonics Training: Multi-Class Incremental Learning without Forgetting"
-    authors: <strong>Yaoyao Liu</strong>, Yuting Su, An-An Liu, Bernt Schiele, Qianru Sun
-    conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
-    image: ./assets/img/teaser_example_2.png
