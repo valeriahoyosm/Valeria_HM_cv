@@ -17,8 +17,8 @@ B.S. in Economics, Universidad del Pacifico, 2024
 ## Work experience
 - **[April 2023 – present]** Universidad del Pacífico Research Center  - CIUP 
 Research Assistant. Area: education, gender, and public policy (PhD. María Pía Basurto)
-• Conducted cleaning, econometric analysis, and modeling of data from the Student Census Evaluation (ECE), National Household Survey (SIAGIE), and the registry of educational services using Stata.
-• Development of a map and academic performance index for second-year high school students at the regional level.
+    - Conducted cleaning, econometric analysis, and modeling of data from the Student Census Evaluation (ECE), National Household Survey (SIAGIE), and the registry of educational services using Stata.
+    - Development of a map and academic performance index for second-year high school students at the regional level.
 - **[Feb. 2020]**
 
 
