@@ -27,7 +27,7 @@ Research Assistant. Area: education, gender, and public policy (PhD. María Pía
 
 ## Skills
 
-- **[Programming languages:]** Python, Julia, R, Stata, Latex
-- **[Software:]** Advanced proficiency in Microsoft Office (Excel, PowerPoint, and Word) and intermediate level in Power Query and oTree
-- **[Languages:]** Spanish (Native), English (Advanced)
--**[Econometric:]** Panel Data, Difference in Differences, Regression Discontinuity, Instrumental Variables, VDL, among others.
+- **Programming languages:** Python, Julia, R, Stata, Latex
+- **Software:** Advanced proficiency in Microsoft Office (Excel, PowerPoint, and Word) and intermediate level in Power Query and oTree
+- **Languages:** Spanish (Native), English (Advanced)
+- **Econometric:** Panel Data, Difference in Differences, Regression Discontinuity, Instrumental Variables, VDL, among others.
