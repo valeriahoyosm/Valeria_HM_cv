@@ -10,7 +10,7 @@ You can consult my CV for more details.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
+hola
 - **Machine Learning:** meta-learning, incremental learning, transfer learning
 
 ## News
