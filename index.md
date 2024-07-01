@@ -19,7 +19,6 @@ B.S. in Economics, Universidad del Pacifico, 2024
 Research Assistant. Area: education, gender, and public policy (PhD. María Pía Basurto)
     - Conducted cleaning, econometric analysis, and modeling of data from the Student Census Evaluation (ECE), National Household Survey (SIAGIE), and the registry of educational services using Stata.
     - Development of a map and academic performance index for second-year high school students at the regional level.
-- **[Feb. 2020]**
 
 
 {% include_relative _includes/publications.md %}
