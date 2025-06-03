@@ -20,7 +20,7 @@ Research Assistant. Area: education, gender, and public policy (PhD. María Pía
     - Conducted cleaning, econometric analysis, and modeling of data from the Student Census Evaluation (ECE), National Household Survey (SIAGIE), and the registry of educational services using Stata.
     - Development of a map and academic performance index for second-year high school students at the regional level.
 
-- **[August 2024 – present]** Universidad del Pacífico – School of Economics< br>
+- **[August 2024 – present]** Universidad del Pacífico – School of Economics <br>
 Teaching Assistant (Prof. María Pía Basurto, Ph.D.; Prof. Oswaldo Molina Campodónico, Ph.D.)
     - Led practical sessions focused on problem-solving and the application of course concepts. Prepared and graded case studies and exams.
     - Courses: Econometrics I (2024-II and 2025-I), General Economics I (2025-I).
