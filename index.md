@@ -4,9 +4,9 @@ layout: homepage
 
 ## About Me
 
-Welcome to my website! 
+Welcome to my website :)! 
 
-I hold a Bachelor's degree in Economics from Universidad del Pacífico. and I also work as a research assistant for Professor [María Pía Basurto](https://sites.google.com/view/maria-pia-basurto/home), researching topics related to development economics, education, gender, and public policy. My research interests focus on impact evaluation and public policy. 
+Bachelor’s degree in Economics from Universidad del Pacífico with over two years of research experience in impact evaluation, field experiments, and administrative data analysis. Passionate about applying quantitative methods to generate evidence that informs public policy and improves decision-making.
 
 You can consult my [CV](https://valeriahoyosm.github.io/Valeria_HM_cv/assets/files/CV_Valeria_Hoyos.pdf) for more details.
 
