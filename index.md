@@ -22,20 +22,20 @@ Top Third of the Class
 - Causal Inference and Machine Learning (2025-II)
 - Applied Econometrics (2026-I)
 
+## Working Papers
+[**The Impact of School Entry Age on Academic Progression**](https://1drv.ms/b/c/cae6c0ca32279e3e/IQDcTGr4yJ1nR67aJaSODzpYAT5GZSqao6XnvQSCWYEParo?e=4rNFzf) <br>
+María Pía Basurto, Antonio Campos, Valeria Hoyos, Jesús Gutiérrez <br>
+Estimates the causal effect of school entry age on academic progression using ECE and SIAGIE administrative records.
+
 
 ## Work experience
 - **[April 2023 – September 2025]** Universidad del Pacífico Research Center  - CIUP <br>
-Research Assistant. Area: education, gender, and public policy (PhD. María Pía Basurto)
+Research Assistant. Area: education, gender, and public policy (PhD. [María Pía Basurto](https://sites.google.com/view/maria-pia-basurto/home))
     - Conducted cleaning, econometric analysis, and modeling of data from the Student Census Evaluation (ECE), National Household Survey (SIAGIE), and the registry of educational services using Stata.
     - Development of a map and academic performance index for second-year high school students at the regional level.
 
 
 {% include_relative _includes/publications.md %}
-
-## Working Papers
-[**The Impact of School Entry Age on Academic Progression**](https://1drv.ms/b/c/cae6c0ca32279e3e/IQDcTGr4yJ1nR67aJaSODzpYAT5GZSqao6XnvQSCWYEParo?e=4rNFzf) 
-María Pía Basurto, Antonio Campos, Valeria Hoyos, Jesús Gutiérrez
-Estimates the causal effect of school entry age on academic progression using ECE and SIAGIE administrative records.
 
 
 ## Awards
