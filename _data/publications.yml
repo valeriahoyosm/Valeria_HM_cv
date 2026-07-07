@@ -3,6 +3,6 @@ main:
   - title: "Indicator of Educational Achievement: Reality and Possibility"
     authors: Valeria Hoyos, Erzo Garay
     pdf: https://www.redesarrollo.pe/publicacion/logro-educativo-realidad-y-posibilidad/
-    output: https://2do-sec-satisfactorio-decil.netlify.app/
+    page: https://2do-sec-satisfactorio-decil.netlify.app/
     code: https://github.com/valeriahoyosm/Indicator-of-Educational-Achievement-Reality-and-Possibility
     image: ./assets/img/teaser_example.png
