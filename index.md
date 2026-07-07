@@ -33,7 +33,7 @@ Research Assistant. Area: education, gender, and public policy (PhD. María Pía
 {% include_relative _includes/publications.md %}
 
 ## Working Papers
-[**The Impact of School Entry Age on Academic Progression**] (https://1drv.ms/b/c/cae6c0ca32279e3e/IQDcTGr4yJ1nR67aJaSODzpYAT5GZSqao6XnvQSCWYEParo?e=4rNFzf) 
+[**The Impact of School Entry Age on Academic Progression**](https://1drv.ms/b/c/cae6c0ca32279e3e/IQDcTGr4yJ1nR67aJaSODzpYAT5GZSqao6XnvQSCWYEParo?e=4rNFzf) 
 María Pía Basurto, Antonio Campos, Valeria Hoyos, Jesús Gutiérrez
 Estimates the causal effect of school entry age on academic progression using ECE and SIAGIE administrative records.
 
@@ -42,13 +42,6 @@ Estimates the causal effect of school entry age on academic progression using EC
 - **[December 2023]** Winner of the Fourth Research Contest for Students – Universidad
 del Pacífico.
 Topic: [”Overconfidence and Investment: An Experimental Approach”](https://1drv.ms/b/c/cae6c0ca32279e3e/IQDMUs_y_19_T57e1WPgvaOJARdbYTYIhX1vIdwBbSi00q0?e=9rLmfX) (PEN. 10 000)
-
-##  Causal Inference & Machine Learning Course
-- [Workgroup 1](https://github.com/valeriahoyosm/Causal_Inference_ML/tree/main/Workgroup1)
-- [Workgroup 2](https://github.com/valeriahoyosm/Causal_Inference_ML/tree/main/Workgroup2)
-- [Workgroup 3](https://github.com/valeriahoyosm/Causal_Inference_ML/tree/main/Workgroup3)
-- [Workgroup 4](https://github.com/valeriahoyosm/Causal_Inference_ML/tree/main/Workgroup4)
-- [Workgroup 5](https://github.com/valeriahoyosm/Causal_Inference_ML/tree/main/Workgroup5)
 
 
 ## Skills
