@@ -12,7 +12,7 @@ You can consult my [CV](https://valeriahoyosm.github.io/Valeria_HM_cv/assets/fil
 
 ## Education 
 
-B.S. in Economics, Universidad del Pacifico, Perú, 2024
+B.S. in Economics, Universidad del Pacifico, Perú, 2024 <br>
 Top Third of the Class
 
 ## Teaching Assistant — Undergraduate
